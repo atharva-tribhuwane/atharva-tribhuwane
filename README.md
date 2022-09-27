@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://atharva-portfolio.netlify.app/](https://atharva-portfolio.netlify.app/)
 
-- 💬 Ask me about **React, Redux, JavaScript, HTML, CSS**
+- 💬 Ask me about **React, Redux, JavaScript, HTML, CSS, Nose.js, express, Mongodb,**
 
 - 📫 How to reach me **tribhuwane.a@gmail.com**
 
