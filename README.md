@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [https://atharva-portfolio.netlify.app/](https://atharva-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://atharvatribhuwane.netlify.app/](https://atharvatribhuwane.netlify.app/)
 
 - 💬 Ask me about **React, Redux, JavaScript, HTML, CSS, Nose.js, express, Mongodb,**
 
